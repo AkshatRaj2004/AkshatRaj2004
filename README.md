@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AkshatRaj/AkshatRaj/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png" width="800" />
+  <img src="https://github.com/AkshatRaj2004/AkshatRaj2004/blob/8cb1c6974cfa5492dc325098988bc615ca9fbe6c/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png" width="800" />
 </p>
 
 
