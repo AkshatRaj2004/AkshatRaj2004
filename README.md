@@ -3,15 +3,15 @@
   <img src="https://your-banner-image-link" width="800" />
 </p>
 
-# Hi 👋, I'm Priyobroto Karmakar  
-### You can call me Priyo 😄  
+# Hi 👋, I'm Akshat Raj 
+### You can call me Akshat 😄  
 
 ---
 
 ### 💫 About Me:
-🌱 I’m currently learning **DSA, C++, Firebase, Framework, Backend**  
-💬 Ask me about **Python, C, Java, HTML5, CSS, JS, SQL, PLSQL**  
-📫 How to reach me: [karmakarpriyobroto@gmail.com](mailto:karmakarpriyobroto@gmail.com)  
+🌱 I’m currently learning **DSA, Java, Firebase, Framework, Backend**  
+💬 Ask me about **Python, C++, Java, HTML5, CSS, JS, SQL, PLSQL**  
+📫 How to reach me: [akshatrajar2004@gmail.com](mailto:akshatrajar2004@gmail.com)  
 ⚡ Fun fact: Ready to help, happy to help 😁  
 
 ---
