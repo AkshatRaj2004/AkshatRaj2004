@@ -40,17 +40,9 @@
 
 
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PriyobrotoKarmakar&theme=react&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=PriyobrotoKarmakar&theme=react&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyobrotoKarmakar&theme=react&hide_border=false&layout=compact)
-
 ---
 
 ### 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=PriyobrotoKarmakar&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
-### ✨ Profile Views:
-![](https://komarev.com/ghpvc/?username=PriyobrotoKarmakar&label=Profile%20Views&color=blueviolet&style=flat)
