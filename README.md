@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-image-link" width="800" />
+  <img src="https://raw.githubusercontent.com/AkshatRaj/AkshatRaj/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png" width="800" />
 </p>
+
 
 # Hi 👋, I'm Akshat Raj 
 ### You can call me Akshat 😄  
