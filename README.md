@@ -13,6 +13,8 @@
 💬 Ask me about **Python, C++, Java, HTML5, CSS, JS, SQL, PLSQL**  
 📫 How to reach me: [akshatrajar2004@gmail.com](mailto:akshatrajar2004@gmail.com)  
 ⚡ Fun fact: Ready to help, happy to help 😁  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshatRaj2004&show_icons=true)
+
 
 ---
 
