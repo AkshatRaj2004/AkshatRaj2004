@@ -13,7 +13,7 @@
 💬 Ask me about **Python, C++, Java, HTML5, CSS, JS, SQL, PLSQL**  
 📫 How to reach me: [akshatrajar2004@gmail.com](mailto:akshatrajar2004@gmail.com)  
 ⚡ Fun fact: Ready to help, happy to help 😁  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshatRaj2004&show_icons=true)
+
 
 
 ---
@@ -28,6 +28,17 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
 
 ---
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshatRaj2004&show_icons=true)
+
+
+
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatRaj2004&layout=compact&theme=react)
+
+
+
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PriyobrotoKarmakar&theme=react&hide_border=false&include_all_commits=true&count_private=true)  
