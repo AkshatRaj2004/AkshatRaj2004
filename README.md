@@ -1,42 +1,43 @@
-💻 Akshat Raj | BTech CSE [AI-ML] Student
+<!-- Banner -->
+<p align="center">
+  <img src="https://your-banner-image-link" width="800" />
+</p>
 
-🚀 About Me
+# Hi 👋, I'm Priyobroto Karmakar  
+### You can call me Priyo 😄  
 
-Hello! I'm Akshat, a passionate BTech Computer Science student with a strong interest in Web Development, Data Structures & Algorithms (DSA), and AI. I love building projects, solving coding problems, and contributing to open-source communities.
+---
 
-🎯 My Goals
+### 💫 About Me:
+🌱 I’m currently learning **DSA, C++, Firebase, Framework, Backend**  
+💬 Ask me about **Python, C, Java, HTML5, CSS, JS, SQL, PLSQL**  
+📫 How to reach me: [karmakarpriyobroto@gmail.com](mailto:karmakarpriyobroto@gmail.com)  
+⚡ Fun fact: Ready to help, happy to help 😁  
 
-✅ Master Web Development.
-✅ Strengthen Data Structures & Algorithms skills
-✅ Explore Artificial Intelligence and Expert Systems
-✅ Work on innovative projects and patents
+---
 
-🏆 Achievements & Experience
-🎓 Completed First Year of BTech CSE with strong fundamentals in programming and networking.
-🎨 Conducted drawing and art sessions for underprivileged children as part of a Community Development Project (CDP) with the Lions Club.
-📜 Created a CDP report on vocational training and art engagement.
-📝 Worked on deadlock detection and other network & system-related projects.
-📑 Developed a patent idea for an AI-based invention.
-🎯 Successfully prepared for and appeared in university exams and midterms in subjects like Algorithms, Digital Systems, Operating Systems, and Machine Learning.
+### 🧰 Languages and Tools:
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
 
-💻 Technical Skills
-Languages: C++, Python, JavaScript, HTML, CSS
-Development: Web Development (Frontend & Backend), APIs
-DSA: Stacks, Queues, Binary Search Trees, Graphs (BFS, DFS, Floyd-Warshall, Warshall’s Algorithm)
-AI & ML: Dimensionality Reduction, Regression Analysis, PCA, LDA
-OS & Systems: Process Management, System Calls, Deadlock Detection
+---
 
-📂 Notable Projects
-🔢 Calculator App (HTML, CSS, JavaScript)
-🕵️‍♂️ Deadlock Detection System (Python, psutil)
-🔍 Network & Digital Communication Fundamentals (Graded Assignment)
-🎭 CDP on Vocational Training & Art (Lions Club Collaboration)
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PriyobrotoKarmakar&theme=react&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=PriyobrotoKarmakar&theme=react&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyobrotoKarmakar&theme=react&hide_border=false&layout=compact)
 
-📚 Learning Journey
-I dedicate 1 hour daily (Mon-Fri) to Web Development and structured DSA preparation. I believe in continuous learning and keep exploring new technologies and real-world problem-solving.
+---
 
-📬 Connect With Me
-📧 Email: akshatrajar2004@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/akshatraj872/
+### 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=PriyobrotoKarmakar&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
-Let's code, learn, and grow together! 🚀
+---
+
+### ✨ Profile Views:
+![](https://komarev.com/ghpvc/?username=PriyobrotoKarmakar&label=Profile%20Views&color=blueviolet&style=flat)
