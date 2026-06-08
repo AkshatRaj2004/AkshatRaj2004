@@ -79,14 +79,6 @@ fun_fact: "Ready to help, happy to help 😁"
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkshatRaj2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
